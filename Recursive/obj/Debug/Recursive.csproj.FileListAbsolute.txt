@@ -1,0 +1,5 @@
+/home/mars/RiderProjects/Recursive/Recursive/bin/Debug/Recursive.exe
+/home/mars/RiderProjects/Recursive/Recursive/bin/Debug/Recursive.pdb
+/home/mars/RiderProjects/Recursive/Recursive/obj/Debug/Recursive.csprojAssemblyReference.cache
+/home/mars/RiderProjects/Recursive/Recursive/obj/Debug/Recursive.exe
+/home/mars/RiderProjects/Recursive/Recursive/obj/Debug/Recursive.pdb

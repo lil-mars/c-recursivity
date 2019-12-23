@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79ec9bc8-484d-4e42-8532-0feb8ca12007" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Recursive/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recursive/Recursive.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Recursive/Recursive.cs" />
+        <option value="$PROJECT_DIR$/Recursive/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VMJAZ3580sobAIp6J0Tc3hgnBb" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Recursive/bin/Debug/Recursive.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursive/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Recursive/Recursive.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79ec9bc8-484d-4e42-8532-0feb8ca12007" name="Default Changelist" comment="" />
+      <created>1577056887361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577056887361</updated>
+      <workItem from="1577056889009" duration="4135000" />
+      <workItem from="1577102438746" duration="4295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive/Recursive.cs</url>
+          <line>365</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive/Recursive.cs" initialLine="365">
+            <startOffsets>
+              <option value="12902" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12903" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive/Recursive.cs</url>
+          <line>366</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive/Recursive.cs" initialLine="366">
+            <startOffsets>
+              <option value="12916" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12949" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive/Recursive.cs</url>
+          <line>368</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive/Recursive.cs" initialLine="368">
+            <startOffsets>
+              <option value="12980" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12992" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive/Recursive.cs</url>
+          <line>344</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive/Recursive.cs" initialLine="344">
+            <startOffsets>
+              <option value="12118" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12139" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive/Recursive.cs</url>
+          <line>352</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive/Recursive.cs" initialLine="352">
+            <startOffsets>
+              <option value="12349" />
+            </startOffsets>
+            <endOffsets>
+              <option value="12425" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Recursive/Program.cs</url>
+          <line>60</line>
+          <properties documentPath="$PROJECT_DIR$/Recursive/Program.cs" initialLine="58">
+            <startOffsets>
+              <option value="2174" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2233" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
